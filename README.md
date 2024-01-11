@@ -1,16 +1,19 @@
-### Hi there 👋
+</p>
+<img align="right" width="10%" src="https://i0.hdslb.com/bfs/new_dyn/ee5bab703ab2c3950909fbb28756674d586631367.gif" width="100"/>
+<p>
 
-<!--
-**thundernightfire/thundernightfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'am ThunderNightFire 👋
+- Indonesia, English
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ThunderNightFire&theme=dark&data=repositories,stars,commits">
+</p>
+
+<p align="center">
+<img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode,html&includeNames=true&theme=dark">
+</p>
+
+---
