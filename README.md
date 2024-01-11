@@ -3,7 +3,9 @@
 <p>
 
 ### Hi there I'am ThunderNightFire 👋
-- Indonesia, English
+
+- Skill issue
+- Potato laptop
 
 ---
 
