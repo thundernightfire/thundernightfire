@@ -20,7 +20,7 @@
 
 ---
 
-<p align="center">Thank you for visiting my github profile 🩷</p>
+<p align="center">Thank you for visiting my github profile ♥</p>
 <p align="center">
 <img align="center" src="https://external-media.spacehey.net/media/sFVSHpRzqAZPWUgaVw7QbYw5cAvVfgxr8st4f79EHlYU=/https://c.tenor.com/WqEHXwWCnP4AAAAd/tanmoshi-tantei-wa-mou-shindeiru.gif">
 </p>
